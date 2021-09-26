@@ -1,6 +1,6 @@
 # Pycoingecko usage
 Language used:python\
-Version:3.9
+Version:3.9\
 Writing in terminal:
 ```bash
 pip install pycoingecko
